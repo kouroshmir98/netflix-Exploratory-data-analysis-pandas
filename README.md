@@ -1,4 +1,4 @@
-## Exploritary data analysis (EDA) on Netflix user data
+## Exploratory dataanalysis (EDA) on Netflix user data
 In this project i've done an EDA on netflix user data using python , pandas and seaborn
 ### dataset
 dataset can be found [in kaggle](https://www.kaggle.com/datasets/arnavsmayan/netflix-userbase-dataset).
